@@ -10,7 +10,7 @@ ha_codeowners:
 ha_integration_type: entity
 ---
 
-The **Water heater** {% term integration %} is built for the controlling and monitoring of hot water heaters.
+The **Water heater** {% term integration %} is built for the controlling and monitoring of water heaters.
 
 To enable this {% term integration %}, pick one of the platforms, and add it to your {% term "`configuration.yaml`" %}:
 
